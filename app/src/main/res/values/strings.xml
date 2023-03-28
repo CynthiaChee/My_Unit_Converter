@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Unit Converter</string>
+    <string-array name="units_menu">
+        <item>Metres</item>
+        <item>Celsius</item>
+        <item>Kilograms</item>
+    </string-array>
+</resources>
